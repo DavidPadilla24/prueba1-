@@ -1,4 +1,4 @@
-#ADMINISTRADORES DE SISTEMAS
+## ADMINISTRADORES DE SISTEMAS
 
 Vamos a describir las funciones que tiene un administrador de sistemas.
 ## Indice
