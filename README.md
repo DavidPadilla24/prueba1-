@@ -9,6 +9,7 @@ Vamos a describir las funciones que tiene un administrador de sistemas.
 2. Que es un administrador de sistemas
 3. ¿Que es un Devops?
 ## Referencias
+![admin sistemas](https://treball.barcelonactiva.cat/porta22/es/fitxes/A/fitxa5905/administradora-de-sistemas.do)
 
 
 
