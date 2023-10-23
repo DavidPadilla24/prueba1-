@@ -12,4 +12,4 @@ Vamos a describir las funciones que tiene un administrador de sistemas.
 (https://es.wikipedia.org/wiki/Administrador_de_sistemas)
 ## Licencias
 
-(img/licencias.png)
+(licencias.png)
